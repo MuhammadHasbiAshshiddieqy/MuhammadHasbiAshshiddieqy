@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AI project
 - ⚡  Fun fact: I love to play basketball and do learn new things  
 
-**Languages and Tools:**  
+### Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -27,6 +27,12 @@
 [<img align="left" alt="MuhammadHasbiAshshiddieqy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MuhammadHasbiAshshiddieqy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+[github] : https://github.com/MuhammadHasbiAshshiddieqy
+[medium] : https://medium.com/@hsbdeveloper97
+[linkedin] : https://www.linkedin.com/in/muhammadhasbiashshiddieqy/
+[twitter] : https://twitter.com/MuhammadHasbiA
+[instagram] : https://instagram.com/hasbi.shiddieqy
 <!--
 **MuhammadHasbiAshshiddieqy/MuhammadHasbiAshshiddieqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
