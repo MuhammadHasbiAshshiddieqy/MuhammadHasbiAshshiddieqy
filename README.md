@@ -28,11 +28,11 @@
 [<img align="left" alt="MuhammadHasbiAshshiddieqy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[github] : https://github.com/MuhammadHasbiAshshiddieqy
-[medium] : https://medium.com/@hsbdeveloper97
-[linkedin] : https://www.linkedin.com/in/muhammadhasbiashshiddieqy/
-[twitter] : https://twitter.com/MuhammadHasbiA
-[instagram] : https://instagram.com/hasbi.shiddieqy
+[github]: https://github.com/MuhammadHasbiAshshiddieqy
+[medium]: https://medium.com/@hsbdeveloper97
+[linkedin]: https://www.linkedin.com/in/muhammadhasbiashshiddieqy/
+[twitter]: https://twitter.com/MuhammadHasbiA
+[instagram]: https://instagram.com/hasbi.shiddieqy
 <!--
 **MuhammadHasbiAshshiddieqy/MuhammadHasbiAshshiddieqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
