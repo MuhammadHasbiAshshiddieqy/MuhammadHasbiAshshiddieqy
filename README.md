@@ -3,7 +3,7 @@
 - 🔭 Future goals: Build a startup
 - 🌱 I’m currently learning software engineering and artificial intelligence
 - 👯 I’m looking to collaborate on AI project
-- ⚡  Fun fact: I love to play basketball and do learn new things  
+- ⚡  Fun fact: I love to play basketball and learn new things  
 
 ### Languages and Tools:  
 
