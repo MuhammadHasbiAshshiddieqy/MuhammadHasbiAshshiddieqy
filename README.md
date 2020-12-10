@@ -19,6 +19,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasbiAshshiddieqy&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MuhammadHasbiAshshiddieqy/github-readme-stats)
 
+### Connect with me:
+
+[<img align="left" alt="MuhammadHasbiAshshiddieqy | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="MuhammadHasbiAshshiddieqy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="MuhammadHasbiAshshiddieqy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MuhammadHasbiAshshiddieqy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MuhammadHasbiAshshiddieqy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <!--
 **MuhammadHasbiAshshiddieqy/MuhammadHasbiAshshiddieqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
