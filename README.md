@@ -1,56 +1,76 @@
-### Hi there 👋
+<h2 align="center">Hi there! 👋 I'm Muhammad Hasbi Ashshiddieqy</h2>
 
-- 🔭 Future goals: Build a startup
-- 🌱 I’m currently learning software engineering and artificial intelligence
-- 👯 I’m looking to collaborate on AI project
-- ⚡  Fun fact: I love to play basketball and learn new things  
+<p align="center">
+  <a href="https://github.com/MuhammadHasbiAshshiddieqy"><img src="https://img.shields.io/badge/GitHub-MuhammadHasbi-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/muhammadhasbiashshiddieqy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://medium.com/@hsbdeveloper97"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium" /></a>
+  <a href="https://twitter.com/MuhammadHasbiA"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://instagram.com/hasbi.shiddieqy"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" /></a>
+</p>
 
-### Languages and Tools:  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+### 🙋‍♂️ About Me
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=MuhammadHasbiAshshiddieqy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+```go
+package main
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasbiAshshiddieqy&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MuhammadHasbiAshshiddieqy/github-readme-stats)
+import "fmt"
 
-### Connect with me:
+type Developer struct {
+  Name        string
+  Goal        string
+  Learning    []string
+  OpenTo      string
+  FunFact     string
+}
 
-[<img align="left" alt="MuhammadHasbiAshshiddieqy | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="MuhammadHasbiAshshiddieqy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="MuhammadHasbiAshshiddieqy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MuhammadHasbiAshshiddieqy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MuhammadHasbiAshshiddieqy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+func main() {
+  me := Developer{
+    Name:     "Muhammad Hasbi Ashshiddieqy",
+    Goal:     "🔭 Build a meaningful startup",
+    Learning: []string{"Software Engineering", "Artificial Intelligence"},
+    OpenTo:   "👯 AI project collaborations",
+    FunFact:  "⚡ I love pizza and learning new things",
+  }
+  fmt.Printf("Hello World! I'm %s\n", me.Name)
+}
+```
 
+---
 
-[github]: https://github.com/MuhammadHasbiAshshiddieqy
-[medium]: https://medium.com/@hsbdeveloper97
-[linkedin]: https://www.linkedin.com/in/muhammadhasbiashshiddieqy/
-[twitter]: https://twitter.com/MuhammadHasbiA
-[instagram]: https://instagram.com/hasbi.shiddieqy
-<!--
-**MuhammadHasbiAshshiddieqy/MuhammadHasbiAshshiddieqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages & Tools
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Genkit-FF6F00?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadHasbiAshshiddieqy&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadHasbiAshshiddieqy&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadHasbiAshshiddieqy&color=1d9e75&style=flat-square" />
+  <em>"Building the future, one commit at a time."</em>
+</p>
