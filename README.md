@@ -1,76 +1,72 @@
-<h2 align="center">Hi there! 👋 I'm Muhammad Hasbi Ashshiddieqy</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=%24+whoami;Muhammad+Hasbi+Ashshiddieqy;%24+cat+role.txt;AI+Consultant+%7C+Engineer+%7C+Founder;%24+echo+%24STATUS;Building+OpenCLAWN+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/MuhammadHasbiAshshiddieqy"><img src="https://img.shields.io/badge/GitHub-MuhammadHasbi-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/muhammadhasbiashshiddieqy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://medium.com/@hsbdeveloper97"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium" /></a>
-  <a href="https://twitter.com/MuhammadHasbiA"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://instagram.com/hasbi.shiddieqy"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://github.com/MuhammadHasbiAshshiddieqy"><img src="https://img.shields.io/badge/GitHub-MuhammadHasbi-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/muhammadhasbiashshiddieqy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="https://medium.com/@hsbdeveloper97"><img src="https://img.shields.io/badge/Medium-Articles-00FF41?style=for-the-badge&logo=medium&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="https://twitter.com/MuhammadHasbiA"><img src="https://img.shields.io/badge/Twitter-Follow-00FF41?style=for-the-badge&logo=twitter&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="https://instagram.com/hasbi.shiddieqy"><img src="https://img.shields.io/badge/Instagram-Follow-00FF41?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000" /></a>
 </p>
 
----
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
-### 🙋‍♂️ About Me
+### `~/about-me $`
 
-```go
-package main
+```bash
+hasbi@dev:~$ whoami
+Muhammad Hasbi Ashshiddieqy
 
-import "fmt"
+hasbi@dev:~$ cat mission.txt
+> Build a meaningful, governance-native AI startup
 
-type Developer struct {
-  Name        string
-  Goal        string
-  Learning    []string
-  OpenTo      string
-  FunFact     string
-}
+hasbi@dev:~$ ls learning/
+software-engineering/   artificial-intelligence/
 
-func main() {
-  me := Developer{
-    Name:     "Muhammad Hasbi Ashshiddieqy",
-    Goal:     "🔭 Build a meaningful startup",
-    Learning: []string{"Software Engineering", "Artificial Intelligence"},
-    OpenTo:   "👯 AI project collaborations",
-    FunFact:  "⚡ I love pizza and learning new things",
-  }
-  fmt.Printf("Hello World! I'm %s\n", me.Name)
-}
+hasbi@dev:~$ cat open-to.txt
+👯 Open to AI project collaborations
+
+hasbi@dev:~$ echo $FUN_FACT
+⚡ I love pizza and learning new things
 ```
 
----
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
-### 🛠️ Languages & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Genkit-FF6F00?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+### `~/stack $ ls -la`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadHasbiAshshiddieqy&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Go-00FF41?style=flat-square&logo=go&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MySQL-00FF41?style=flat-square&logo=mysql&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-00FF41?style=flat-square&logo=huggingface&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Ollama-00FF41?style=flat-square&logo=ollama&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LangChain-00FF41?style=flat-square&logo=langchain&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Genkit-00FF41?style=flat-square&logo=firebase&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TensorFlow-00FF41?style=flat-square&logo=tensorflow&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-00FF41?style=flat-square&logo=docker&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Ubuntu-00FF41?style=flat-square&logo=ubuntu&logoColor=00FF41&labelColor=000000" />
+</p>
+
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+
+### `~/stats $ fetch --github`
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadHasbiAshshiddieqy&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF41" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadHasbiAshshiddieqy&theme=blueberry_dark" />
+</p>
+
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadHasbiAshshiddieqy&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadHasbiAshshiddieqy&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadHasbiAshshiddieqy&color=1d9e75&style=flat-square" />
-  <em>"Building the future, one commit at a time."</em>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=4000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=%24+echo+%22Building+the+future%2C+one+commit+at+a+time.%22;Process+exited+with+code+0" alt="Footer Typing SVG" />
 </p>
