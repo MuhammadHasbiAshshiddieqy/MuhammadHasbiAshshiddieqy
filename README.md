@@ -53,13 +53,13 @@ hasbi@dev:~$ echo $FUN_FACT
 ### `~/stats $ fetch --github`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadHasbiAshshiddieqy&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF41" />
+  <img src="./profile/streak.svg" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasbiAshshiddieqy&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+  <img src="./profile/stats.svg" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasbiAshshiddieqy&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF" />
+  <img src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
